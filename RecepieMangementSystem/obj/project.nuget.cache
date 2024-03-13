@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "icm5JOKd7Xot9rOYpOPpbU03YvUI8hJA5qKGwrmLAw2wSb1f45enAiPMZ46h4p7S4GWkKF3QaZDgb8X5n+EdUg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Predator\\Desktop\\myprogram\\RecipeManagmentSystem1\\RecipeManagementSystem\\RecepieMangementSystem\\RecepieMangementSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  RecepieMangementSystem -> RecepieMangementSystem.",
+      "libraryId": "RecepieMangementSystem",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

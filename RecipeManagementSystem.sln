@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecepieMangementSystem", "RecepieMangementSystem\RecepieMangementSystem.csproj", "{AA2E5DCE-CAE0-40C8-AA91-33BCCDE0967B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_RecepieManagmentSystem", "Test_RecepieManagmentSystem\Test_RecepieManagmentSystem.csproj", "{3B67EBA4-EB88-440C-B399-6DA6B78ADDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2E5DCE-CAE0-40C8-AA91-33BCCDE0967B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2E5DCE-CAE0-40C8-AA91-33BCCDE0967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2E5DCE-CAE0-40C8-AA91-33BCCDE0967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2E5DCE-CAE0-40C8-AA91-33BCCDE0967B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B67EBA4-EB88-440C-B399-6DA6B78ADDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B67EBA4-EB88-440C-B399-6DA6B78ADDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B67EBA4-EB88-440C-B399-6DA6B78ADDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B67EBA4-EB88-440C-B399-6DA6B78ADDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7180A573-6CFB-4CE0-B127-E3E232E6AD4B}
+	EndGlobalSection
+EndGlobal
